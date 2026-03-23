@@ -1,0 +1,15 @@
+{
+  "name": "Marcianitos",
+  "short_name": "Marcianitos",
+  "description": "Juego arcade estilo Space Invaders con efectos retro CRT",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#020c02",
+  "theme_color": "#020c02",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
